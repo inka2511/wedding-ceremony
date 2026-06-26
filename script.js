@@ -1,7 +1,7 @@
 const INVITATION = {
   groom: "Дамирхан",
   bride: "Інжу",
-  eventDate: "2026-08-23T18:00:00+05:00",
+  eventDate: "2026-08-23T17:00:00+05:00",
   venue: {
     kk: {
       

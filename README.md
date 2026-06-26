@@ -6,7 +6,7 @@ Static wedding invitation made with HTML, CSS and JavaScript. It is ready for Gi
 
 - Couple: Damirkhan & Inzhu
 - Date: August 23, 2026
-- Time: 18:00
+- Time: 17:00
 - Place: Ақ шаңырақ мейрамханасы, Қызылорда қаласы
 
 ## Setup
